@@ -18,7 +18,7 @@ The core achievement of this project is the custom-engineered **Hazard Unit**, w
   * **B-Type:** Branches (`beq`)
   * **J-Type:** Jumps (`jal`)
 
-## 🛠️ Technical Stack & Tools
+##  Technical Stack & Tools
 * **Hardware Description Language:** Verilog (IEEE 1364)
 * **Compiler & Simulator:** Icarus Verilog (`iverilog`, `vvp`)
 * **Waveform Analysis:** GTKWave
